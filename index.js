@@ -2,7 +2,7 @@ var express = require("express");
 var app = express();
 
 const MongoClient = require('mongodb').MongoClient;
-const url = "mongodb+srv://miketsui3a:aA26761683@cluster0-vmlbv.mongodb.net/test?retryWrites=true&w=majority";
+const url = "mongodb+srv://xxxx:xxxx@cluster0-vmlbv.mongodb.net/test?retryWrites=true&w=majority";
 
 const bodyParser = require('body-parser');
 
